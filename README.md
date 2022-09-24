@@ -1,2 +1,4 @@
-# Data-Analysis-on-data-sets
-analysis on various data sets
+# Tiger-Analytics-assignment
+Tiger analytics assignment for campus internship.
+use the sales data, order details etc. and inventory data to decide 
+if you should promote/advertise certain product or not.
